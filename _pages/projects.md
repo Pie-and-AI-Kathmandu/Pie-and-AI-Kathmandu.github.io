@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: people
 permalink: /people/
 description: People involved in Pie and AI
 nav: true
