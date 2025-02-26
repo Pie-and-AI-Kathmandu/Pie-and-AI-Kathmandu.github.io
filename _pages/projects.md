@@ -5,7 +5,7 @@ permalink: /people/
 description: People involved in Pie and AI
 nav: true
 nav_order: 3
-display_categories: [ambassador, work, fun]
+display_categories: [ambassador]
 horizontal: false
 ---
 
